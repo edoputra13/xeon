@@ -27,7 +27,7 @@ const chalk = require("chalk")
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -59,8 +59,8 @@ global.ownertag = ['6288213312211'] //ur owner tag
 global.ownernummenu = ['6288213312211'] //ur owner number in menu and all
 global.watermark = "E." //ur watermark
 global.botscript = "https://github.com/edoputra13"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.linkz1 = "https://chat.whatsapp.com/G0iE544CDPrGjOeBiSDRr9"
+global.linkz2 = "https://chat.whatsapp.com/G0iE544CDPrGjOeBiSDRr9"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
